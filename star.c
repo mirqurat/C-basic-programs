@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-	int a=5 ,i,j,k;
+	int a=5 ,i,j;
 	for(i=1; i<=a;i++)
 {
 	printf("\n");
